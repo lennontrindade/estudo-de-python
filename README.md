@@ -29,4 +29,4 @@ with open(..., 'r'): O with é um gerenciador de contexto. Ele abre o arquivo e,
 
 readlines(): Pega o arquivo inteiro e transforma cada linha em um item de uma lista.
 
-json.dump(..., indent=4): Transforma os dados do Python em um arquivo JSON bonitinho e organizado (o indent cria aqueles espaços no início das linhas para facilitar a leitura humana).
+json.dump(..., indent=4): Transforma os dados do Python em um arquivo JSON bonitinho e organizado (o indent cria aqueles espaços no início das linhas para facilitar a leitura).
