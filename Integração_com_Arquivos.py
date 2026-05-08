@@ -1,7 +1,7 @@
 import json
 
-caminho = r"C:\Users\lenno\OneDrive\Área de Trabalho\nomes.txt"
-caminho_json = r"C:\Users\lenno\OneDrive\Área de Trabalho\nomes.json"
+caminho = r"C:\Users\......"
+caminho_json = r"C:\Users\......"
 
 with open(caminho,'r',encoding='utf-8') as arquivo:
     linhas = arquivo.readlines()
